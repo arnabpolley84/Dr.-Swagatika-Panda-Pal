@@ -1,0 +1,6 @@
+{
+  "name": "Jivantika Women's Healthcare — Dr. Swagatika Panda Pal",
+  "description": "Obstetrics and gynaecology care by Dr. Swagatika Panda Pal at Jivantika Diagnostic Clinic, Mukundapur, Kolkata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
